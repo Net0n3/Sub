@@ -1,1 +1,1 @@
-vless://a7bc3a77-ae6a-4fd1-b6a6-fdf62cef3f4f@cdn2.net0n3.shop:2052?type=xhttp&path=%2Fexport&host=openstreetmap.org&mode=auto&security=reality&pbk=a-drCre-Q-xYWmmIdc9OwTWQF-lFMnBDUpMXtvjSLF4&fp=chrome&pqv=&sni=openstreetmap.org&sid=b4696f&spx=%2F#🛰️@NET0N3-URG
+vless://a7bc3a77-ae6a-4fd1-b6a6-fdf62cef3f4f@cdn2.net0n3.shop:2052?type=xhttp&path=%2Fexport&host=openstreetmap.org&mode=auto&security=reality&pbk=a-drCre-Q-xYWmmIdc9OwTWQF-lFMnBDUpMXtvjSLF4&fp=chrome&sni=openstreetmap.org&sid=b4696f&spx=%2F#NET0N3-URG
